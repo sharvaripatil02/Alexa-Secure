@@ -1,7 +1,3 @@
-/**
- *  Author: Dr. Mihai GALOS
- *  Timestamp: 19:04:58, November 29th, 2015    
- */
 
 // Twilio Credentials 
 var accountSid = 'AC991474631891e4378477a777540a95ce';
